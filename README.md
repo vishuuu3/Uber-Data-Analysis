@@ -24,5 +24,6 @@ To run tests, run the follow command
 ** Python Uber_Data_Analysis.ipynb **
 
 # 🚀 About Me
+[![GitHub](https://img.shields.io/badge/View_on_GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vishuuu3)
 
    
