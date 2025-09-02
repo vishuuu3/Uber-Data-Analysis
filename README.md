@@ -11,12 +11,12 @@ Uber Technologies, Inc., commonly known as Uber, is an American technology compa
 # Installation
 To install the libraries used in this project. Follow the below steps:    
 
-   ('''import pandas as pd  
-   import numpy as np   
+  ''' import pandas as pd  
+ '''  import numpy as np   
    import datetime  
    import matplotlib  
    import matplotlib.pyplot as plt  
    import seaborn as sns  
-   import calendar''')   
+   import calendar 
    
 
