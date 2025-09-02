@@ -20,7 +20,7 @@ To install the libraries used in this project. Follow the below steps:
    import calendar 
 
 # Running Flask Api
-To run tests, run the follow command
+To run tests, run the follow command  
 ** Python Uber_Data_Analysis.ipynb **
 
 # 🚀 About Me
